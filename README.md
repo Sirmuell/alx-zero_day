@@ -1,2 +1,2 @@
 My first readme
-This Is my readme for alx zero day repository 
+This is the first editable readme for alx zero day repository 
